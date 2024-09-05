@@ -1,5 +1,7 @@
 # The cheapest route SQL
 
+Описание на русском [тут](./README_RUS.md).
+
 ![graph](misc/images/graph.png)
 
 # Technical assignment
