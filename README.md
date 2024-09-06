@@ -11,3 +11,9 @@ Please take a look at the Graph on the left. There are 4 cities (a, b, c and d) 
 Please write one SQL statement using Recursive Query that returns all tours (aka paths) with minimal traveling cost if we will start from city "a".
 You need to find the cheapest way of visiting all the cities and returning to your starting point. For example, the tour looks like that a -> b -> c -> d -> a. 
 Please sort data by total_cost and then by tour.
+
+# Instructions for running the code
+
+Please download a script with Database Model from src/database/model.sql and apply the script to your database.
+
+Run the script from src/the_cheapest_route.sql
